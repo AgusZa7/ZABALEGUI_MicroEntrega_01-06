@@ -1,0 +1,39 @@
+@import url("font/stylesheet.css") ;
+
+
+body {
+    font-family: 'HelveticaNeueCyr', sans-serif;
+    font-size: 90%;
+    color: black
+}
+
+/* No puedo poner un valor de linea mas light*/
+/* Tampoco se como ajustar el espaciado entre letras */
+
+h1 {
+    font-family: 'HelveticaNeueCyr', sans-serif;
+    font-weight: 100;
+    font-size: 6.5em;
+    line-height: 30%;
+    
+}
+
+a {
+    font-size: 1em;
+    font-weight: 100;
+    color:black; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+}
+
+p {
+    font-weight: 300;
+    font-size: 1.6em;
+    line-height: 40%;
+}
+
+
